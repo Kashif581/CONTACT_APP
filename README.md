@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/ff0ee8ec-a39d-47e2-b4d6-2600ac7e326a
 
 # CONTACT_APP
 
-Hi there! 👋 I am Muhammad Kashif Abdullah a full stack web developer. This is the contact meaning App, which will help you manage your conatcts all on one please. I hope you will like it 😊
+Hi there! 👋 I am Muhammad Kashif Abdullah a full stack web developer. This is the contact managing App, which will help you to manage your conatcts all at one please. I hope you will like it 😊
 
 ## Technologies Used:
 
